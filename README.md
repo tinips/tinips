@@ -136,6 +136,5 @@ For me, health and performance are closely connected: taking care of my body and
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-tinips-181717?style=flat&logo=github)](https://github.com/tinips)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Albert%20Arboles-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/albert-%C3%A1rboles-9700082b6/)
 [![Email](https://img.shields.io/badge/Email-arboles.albert%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arboles.albert@gmail.com)
