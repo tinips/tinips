@@ -120,6 +120,8 @@ I am disciplined, proactive, and ambitious. I like getting out of my comfort zon
 
 I enjoy fast-paced environments where feedback loops are short, expectations are high, and continuous learning is part of the process. I try to balance technical depth with practical execution: understanding the context, building a first useful version, validating it, and iterating.
 
+I also enjoy working in teams because I like learning from others, exchanging ideas, and using brainstorming to reach better solutions.
+
 What motivates me most is building useful things: workflows, agents, APIs, and applications that help people make better decisions, save time, or access information more easily. I am the kind of person who looks for practical solutions and keeps improving them.
 
 ---
