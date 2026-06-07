@@ -10,7 +10,7 @@ I work at the intersection of **data, AI, and software engineering**, building a
 
 ## 🛠️ Tech Stack
 
-**Languages & Software**
+**Software**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
