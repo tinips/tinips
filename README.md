@@ -1,6 +1,6 @@
 # Welcome! I'm Albert Árboles Taulés 👋
 
-## 🔧 Data Engineering | Applied AI | Software Engineering
+## 🔧 Data Scientist | Applied AI | Software Engineering
 
 I am currently a Data Scientist at Sopho Factory.
 
