@@ -86,7 +86,9 @@ Agentic podcast generator that turns user context into a short personalized podc
 
 **Focus:** AI agents, workflow orchestration, LLMs, voice synthesis, personalization, API-based automation.  
 **Link:** [GitHub](https://github.com/tinips/personal_podcast_generator)
+
 ---
+
 ### 🔎 Research Outreach Agent
 
 API-based web platform currently in development to help users find potential research collaborators.
