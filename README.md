@@ -75,6 +75,18 @@ Worked on real-world reporting and data-driven business solutions.
 
 ## 🚀 Featured Projects
 
+### 🎙️ Personal Podcast Generator
+
+Agentic podcast generator that turns user context into a short personalized podcast.
+
+- Extracts relevant topics from user-provided context.
+- Generates a personalized podcast script.
+- Uses voice synthesis to produce an audio-style experience.
+- Orchestrates multiple steps into a complete AI workflow.
+
+**Focus:** AI agents, workflow orchestration, LLMs, voice synthesis, personalization, API-based automation.  
+**Link:** [GitHub](https://github.com/tinips/personal_podcast_generator)
+
 ### 🔎 Research Outreach Agent
 
 API-based web platform currently in development to help users find potential research collaborators.
