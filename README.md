@@ -1,8 +1,8 @@
 # Welcome! I'm Albert Árboles Taulés 👋
 
-## 🔧 Data Scientist | Applied AI | Software Engineering
+## 🔧 Forward Deployed Engineer | Applied AI | Software Engineering
 
-I am currently a Data Scientist at Sopho Factory.
+I am currently a Forward Deployed Engineer at Supersonik.
 
 I work at the intersection of **data, AI, and software engineering**, building analytical workflows, API-based tools, and practical systems that turn real-world problems into structured technical solutions. I enjoy working closely with users, understanding what they need, and building useful products with measurable impact.
 
@@ -37,24 +37,28 @@ I work at the intersection of **data, AI, and software engineering**, building a
 
 ## 🔭 Current Focus
 
-### 💼 Data Scientist @ Sopho Factory
+### 🚀 Forward Deployed Engineer @ Supersonik
 
-Working on client-facing data analysis, KPI tracking, and process improvement.
+Deploying AI agents in client-facing engagements, working directly with clients to implement and adapt agentic solutions to their real-world needs.
 
-- Analyzing client sales, business KPIs, and operational performance.
-- Building Python and API-based analytical workflows, automation tools, and data processing pipelines.
-- Translating ambiguous client requirements into business insights, process improvement recommendations, and technical deliverables.
-
-### 🤖 AI Research Assistant - MBZUAI / University of Oxford Collaboration
-
-Collaborating on a multimodal medical agents project focused on generating reliable clinical information for virtual patients.
-
-- Working with multimodal medical agents and API-based agentic workflows.
-- Exploring AI-assisted clinical reasoning, virtual patient generation, and evaluation workflows.
+- Deploying and configuring AI agents for client-facing use cases.
+- Working closely with clients to translate their requirements into working agentic workflows.
+- Iterating on agent behavior and setup based on client feedback in live engagements.
 
 ---
 
 ## 📜 Past Experience
+
+### 🤖 AI Research Assistant - MBZUAI / University of Oxford Collaboration
+
+Collaborated on a multimodal medical agents project focused on generating reliable clinical information for virtual patients.
+
+- Worked with multimodal medical agents and API-based agentic workflows.
+- Explored AI-assisted clinical reasoning, virtual patient generation, and evaluation workflows.
+
+### 💼 Data Scientist @ Sopho Factory
+
+Worked on client-facing data analysis, KPI tracking, and process improvement, building Python and API-based analytical workflows and automation tools.
 
 ### 🧠 ML Research Assistant @ EPFL
 
