@@ -4,7 +4,9 @@
 
 I am currently a Forward Deployed Engineer at Supersonik.
 
-I work at the intersection of **data, AI, and software engineering**, building analytical workflows, API-based tools, and practical systems that turn real-world problems into structured technical solutions. I enjoy working closely with users, understanding what they need, and building useful products with measurable impact.
+I work directly with clients to **deploy and adapt AI agents** to their real-world workflows, turning ambiguous requirements into working agentic solutions. I enjoy being close to the end user, understanding what they actually need, and iterating fast to ship something useful.
+
+> **About Supersonik:** Supersonik builds an autonomous, multilingual AI agent that joins live video calls to run real-time, personalized software demos for sales teams, pulling live data from CRMs, websites, and documentation to tailor each demo to the buyer. Backed by Andreessen Horowitz, the company is based between San Francisco and Barcelona.
 
 ---
 
