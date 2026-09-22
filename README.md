@@ -1,12 +1,8 @@
 # Welcome! I'm Albert Árboles Taulés 👋
 
-## 🔧 Forward Deployed Engineer | Applied AI | Software Engineering
+## 🔧 Data Engineering Graduate | Applied AI | Software Engineering
 
-I am currently a Forward Deployed Engineer at Supersonik.
-
-I work directly with clients to **deploy and adapt AI agents** to their real-world workflows, turning ambiguous requirements into working agentic solutions. I enjoy being close to the end user, understanding what they actually need, and iterating fast to ship something useful.
-
-> **About Supersonik:** Supersonik is a startup building an autonomous, multilingual AI agent that joins live video calls to run real-time, personalized software demos for sales teams, pulling live data from CRMs, websites, and documentation to tailor each demo to the buyer. Backed by Andreessen Horowitz, the company is based between San Francisco and Barcelona.
+I'm a Data Engineering graduate from Universitat Autònoma de Barcelona (UAB), combining applied data science, AI research, and software engineering. I enjoy being close to the end user, understanding what they actually need, and iterating fast to ship something useful.
 
 ---
 
@@ -37,30 +33,19 @@ I work directly with clients to **deploy and adapt AI agents** to their real-wor
 
 ---
 
-## 🔭 Current Focus
-
-### 🚀 Forward Deployed Engineer @ Supersonik
-
-Deploying AI agents in client-facing engagements, working directly with clients to implement and adapt agentic solutions to their real-world needs.
-
-- Deploying and configuring AI agents for client-facing use cases.
-- Working closely with clients to translate their requirements into working agentic workflows.
-- Iterating on agent behavior and setup based on client feedback in live engagements.
-
----
-
 ## 📜 Past Experience
 
 ### 🤖 AI Research Assistant - MBZUAI / University of Oxford Collaboration
 
 Collaborated on a multimodal medical agents project focused on generating reliable clinical information for virtual patients.
 
-- Worked with multimodal medical agents and API-based agentic workflows.
-- Explored AI-assisted clinical reasoning, virtual patient generation, and evaluation workflows.
+- Built a data pipeline that transformed patient characteristics from a dataset into inputs for a pretrained model to generate synthetic ECG signals.
 
 ### 💼 Data Scientist @ Sopho Factory
 
-Worked on client-facing data analysis, KPI tracking, and process improvement, building Python and API-based analytical workflows and automation tools.
+Owned an end-to-end tool for field-sales automation, giving field reps a daily visit schedule and per-client summary before each pharmacy visit.
+
+- Built Python and API-based analytical workflows and automation tools for client-facing data science projects.
 
 ### 🧠 ML Research Assistant @ EPFL
 
@@ -69,6 +54,7 @@ Worked on deep learning methods for autonomous robotics and geometric constraint
 - Developed PyTorch-based models for learning structured equality constraints from trajectory demonstrations.
 - Built synthetic 3D data generation workflows and experimental evaluation pipelines.
 - Strengthened my research mindset, critical thinking, experimental rigor, and ability to work on open-ended technical problems.
+- Coauthored ["Learning Equality Constraints from Trajectory Demonstrations"](https://ieeexplore.ieee.org/document/11689859), accepted for publication in a Q1 IEEE journal (currently in preprint ahead of formal publication).
 
 ### 📊 Data Engineer Intern @ SEAT/CUPRA
 
@@ -80,6 +66,18 @@ Worked on real-world reporting and data-driven business solutions.
 ---
 
 ## 🚀 Featured Projects
+
+### 🏊‍♂️🚴‍♂️🏃‍♂️ Triathlon AI Coach
+
+Python and Telegram-bot-based AI coach that generates personalized training plans across running, cycling, and swimming.
+
+- Builds structured training plans tailored to the athlete.
+- Delivered through a Telegram bot for easy day-to-day use.
+- Combines AI-driven personalization with a practical, real-world training tool.
+
+**Stack:** Python, Telegram Bot API
+
+---
 
 ### 🎙️ Personal Podcast Generator
 
