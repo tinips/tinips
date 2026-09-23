@@ -78,6 +78,7 @@ Co-developed a Telegram bot that tracks electricity prices and solar production 
 
 **Stack:** Python, Telegram Bot API  
 **Try it:** [@fotovoltaicaBot](https://t.me/fotovoltaicaBot) on Telegram
+
 ---
 
 ### 🏊‍♂️🚴‍♂️🏃‍♂️ Triathlon AI Coach
