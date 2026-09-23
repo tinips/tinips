@@ -91,6 +91,8 @@ Python and Telegram-bot-based AI coach that generates personalized training plan
 
 **Stack:** Python, Telegram Bot API
 
+---
+
 ### 🎙️ Personal Podcast Generator
 
 Agentic podcast generator that turns user context into a short personalized podcast.
