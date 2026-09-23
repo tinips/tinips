@@ -67,18 +67,17 @@ Worked on real-world reporting and data-driven business solutions.
 ## 🚀 Featured Projects
 ### ⚡ Fotovoltaica Bot
 
-Telegram bot that tracks electricity prices and solar production in Spain, live and actively improved.
+Co-developed a Telegram bot that tracks electricity prices and solar production in Spain, live and actively improved.
 
 - Shows hour-by-hour electricity prices across three tariffs (PVPC, indexed, and the OMIE wholesale market).
 - Estimates electricity bills from distributor data.
 - Tracks solar panel production, connecting to inverters from three manufacturers.
-- Co-developed the core software: provider integrations, APIs, and data import/export.
 - Includes an AI assistant that answers personalized questions about pricing and solar production in plain language.
 - Ongoing work to expand the AI features and improve the user experience further.
+- 22,800 signups since the project began, with a recurring core of around 400–500 active users a month.
 
 **Stack:** Python, Telegram Bot API  
 **Try it:** [@fotovoltaicaBot](https://t.me/fotovoltaicaBot) on Telegram
-
 ---
 
 ### 🏊‍♂️🚴‍♂️🏃‍♂️ Triathlon AI Coach
