@@ -47,15 +47,14 @@ Owned an end-to-end tool for field-sales automation, giving field reps a daily v
 
 - Built Python and API-based analytical workflows and automation tools for client-facing data science projects.
 
-### 🧠 ML Research Assistant @ EPFL
-
+ ### 🧠 ML Research Assistant @ EPFL
+ 
 Worked on deep learning methods for autonomous robotics and geometric constraint learning.
-
+ 
 - Developed PyTorch-based models for learning structured equality constraints from trajectory demonstrations.
 - Built synthetic 3D data generation workflows and experimental evaluation pipelines.
 - Strengthened my research mindset, critical thinking, experimental rigor, and ability to work on open-ended technical problems.
-- Coauthored ["Learning Equality Constraints from Trajectory Demonstrations"](https://ieeexplore.ieee.org/document/11689859), accepted for publication in a Q1 IEEE journal (currently in preprint ahead of formal publication).
-
+- Coauthored ["Learning Equality Constraints from Trajectory Demonstrations"](https://ieeexplore.ieee.org/document/11689859), accepted for publication in a Q1 IEEE journal (IEEE Robotics and Automation Letters), currently available under Early Access on IEEE Xplore.
 ### 📊 Data Engineer Intern @ SEAT/CUPRA
 
 Worked on real-world reporting and data-driven business solutions.
