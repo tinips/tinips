@@ -72,7 +72,7 @@ Co-developed a Telegram bot that tracks electricity prices and solar production 
 - Shows hour-by-hour electricity prices across three tariffs (PVPC, indexed, and the OMIE wholesale market).
 - Estimates electricity bills from distributor data.
 - Tracks solar panel production, connecting to inverters from three manufacturers.
-- Includes an AI assistant that answers personalized questions about pricing and solar production in plain language.
+- Includes an AI assistant that answers questions about any feature in the bot in plain language (RAG-based, retrieving from tagged documentation).
 - Ongoing work to expand the AI features and improve the user experience further.
 - 22,800 signups since the project began, with a recurring core of around 400–500 active users a month.
 
