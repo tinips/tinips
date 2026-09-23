@@ -66,18 +66,31 @@ Worked on real-world reporting and data-driven business solutions.
 ---
 
 ## 🚀 Featured Projects
+### ⚡ Fotovoltaica Bot
+
+Telegram bot that tracks electricity prices and solar production in Spain, live and actively improved.
+
+- Shows hour-by-hour electricity prices across three tariffs (PVPC, indexed, and the OMIE wholesale market).
+- Estimates electricity bills from distributor data.
+- Tracks solar panel production, connecting to inverters from three manufacturers.
+- Co-developed the core software: provider integrations, APIs, and data import/export.
+- Includes an AI assistant that answers personalized questions about pricing and solar production in plain language.
+- Ongoing work to expand the AI features and improve the user experience further.
+
+**Stack:** Python, Telegram Bot API  
+**Try it:** [@fotovoltaicaBot](https://t.me/fotovoltaicaBot) on Telegram
+
+---
 
 ### 🏊‍♂️🚴‍♂️🏃‍♂️ Triathlon AI Coach
 
-Python and Telegram-bot-based AI coach that generates personalized training plans across running, cycling, and swimming.
+Python and Telegram-bot-based AI coach that generates personalized training plans across running, cycling, and swimming. Currently in development.
 
 - Builds structured training plans tailored to the athlete.
 - Delivered through a Telegram bot for easy day-to-day use.
 - Combines AI-driven personalization with a practical, real-world training tool.
 
 **Stack:** Python, Telegram Bot API
-
----
 
 ### 🎙️ Personal Podcast Generator
 
@@ -116,20 +129,6 @@ Full-stack university platform built to improve student life and academic collab
 
 **Stack:** Django, PostgreSQL, Vue.js  
 **Links:** [GitHub](https://github.com/tinips/UniCat) | [More info](https://www.linkedin.com/feed/update/urn:li:activity:7355930123822403584/)
-
----
-
-### 🧩 Geometric Constraint Learning
-
-Research project developed during my AI Research Internship at EPFL.
-
-- Learning equality constraints from trajectory demonstrations.
-- Synthetic 3D data generation.
-- Projection-based trajectory correction.
-- Robustness evaluation with PyTorch.
-
-**Stack:** Python, PyTorch  
-**Link:** [GitHub](https://github.com/tinips/Equality-Learning-Constraint-From-Demonstrations)
 
 ---
 
