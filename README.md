@@ -117,6 +117,7 @@ API-based web platform currently in development to help users find potential res
 - Designed to make finding research collaborators easier and more accessible for students and researchers like myself.
 
 **Focus:** APIs, automation, research workflows, AI-assisted outreach.
+**Link:** [GitHub](https://github.com/tinips/research-outreach-agent)
 
 ---
 
