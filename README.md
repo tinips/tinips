@@ -109,7 +109,7 @@ Agentic podcast generator that turns user context into a short personalized podc
 
 ### 🔎 Research Outreach Agent
 
-API-based web platform currently in development to help users find potential research collaborators.
+API-based agent to help users find potential research collaborators.
 
 - Retrieves papers from user-defined topics.
 - Extracts relevant authors.
