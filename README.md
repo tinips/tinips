@@ -1,8 +1,8 @@
 # Welcome! I'm Albert Árboles Taulés 👋
 
-## 🔧 Data Engineering Graduate | Applied AI | Software Engineering
+## 🔧 AI Solutions Architect @ Timbal AI | Applied AI | Data Engineering
 
-I'm a Data Engineering graduate from Universitat Autònoma de Barcelona (UAB), combining applied data science, AI research, and software engineering. I enjoy being close to the end user, understanding what they actually need, and iterating fast to ship something useful.
+I'm an AI Solutions Architect at Timbal AI and a Data Engineering graduate from Universitat Autònoma de Barcelona (UAB). I combine applied AI, research and software engineering, and I enjoy being close to the end user, understanding what they actually need, and iterating fast to ship something useful.
 
 ---
 
@@ -30,6 +30,14 @@ I'm a Data Engineering graduate from Universitat Autònoma de Barcelona (UAB), c
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+---
+
+## 🎯 Current Focus
+
+### 🏗️ AI Solutions Architect @ Timbal AI (Oct 2026 – Present)
+
+Designing and deploying AI agents that help companies put AI to work in their real processes.
 
 ---
 
